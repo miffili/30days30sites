@@ -28,8 +28,8 @@ My goal is to build fairly decent websites, one for each prompt, within a day, s
  1️⃣6️⃣ Charitable Organization  
  1️⃣7️⃣ Clothing/Fashion Site  
  1️⃣8️⃣ Cruise Ship  
- 1️⃣9️⃣ *tba*  
- 2️⃣0️⃣ *tba*  
+ 1️⃣9️⃣ Candy – New Flavor  
+ 2️⃣0️⃣ Blog Landing Page  
  2️⃣1️⃣ *tba*  
  2️⃣2️⃣ *tba*  
  2️⃣3️⃣ *tba*  
