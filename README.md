@@ -8,7 +8,7 @@ At the end of March 2018 I decided to take on yet another challenge – #30days3
 From the moment you sign up, you'll get an email every weekday with a prompt. Every email provides some additional links & some rules. Then it's up to you to build a site.  
 For more information visit [30days30sites](http://www.codelegy.com/30days30sites/ "#30days30sites challenge")
 
-My goal is to build fairly decent websites, one for each prompt, within a day, starting April 1st. It doesn't have to be done on 30 consecutive days. How long it will take me that day is absolutely up to me. But I will share the time, that went into the building for each of the websites.
+My goal is to build fairly decent websites, one for each prompt, within a day, ~~starting April 1st~~ (postponed, because React is currently the priority). It doesn't have to be done on 30 consecutive days. How long it will take me that day is absolutely up to me. But I will share the time, that went into the building for each of the websites.
 
  0️⃣1️⃣ Portfolio  
  0️⃣2️⃣ Event Invitation  
@@ -30,10 +30,10 @@ My goal is to build fairly decent websites, one for each prompt, within a day, s
  1️⃣8️⃣ Cruise Ship  
  1️⃣9️⃣ Candy – New Flavor  
  2️⃣0️⃣ Blog Landing Page  
- 2️⃣1️⃣ *tba*  
- 2️⃣2️⃣ *tba*  
- 2️⃣3️⃣ *tba*  
- 2️⃣4️⃣ *tba*  
+ 2️⃣1️⃣ Email Newsletter Template  
+ 2️⃣2️⃣ Weight Loss Product/Program  
+ 2️⃣3️⃣ Gardener/Landscaper  
+ 2️⃣4️⃣ Online Shop  
  2️⃣5️⃣ *tba*  
  2️⃣6️⃣ *tba*  
  2️⃣7️⃣ *tba*  
