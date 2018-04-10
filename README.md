@@ -34,9 +34,9 @@ My goal is to build fairly decent websites, one for each prompt, within a day, ~
  2️⃣2️⃣ Weight Loss Product/Program  
  2️⃣3️⃣ Gardener/Landscaper  
  2️⃣4️⃣ Online Shop  
- 2️⃣5️⃣ *tba*  
- 2️⃣6️⃣ *tba*  
- 2️⃣7️⃣ *tba*  
- 2️⃣8️⃣ *tba*  
- 2️⃣9️⃣ *tba*  
- 3️⃣0️⃣ *tba*  
+ 2️⃣5️⃣ Recipe Site  
+ 2️⃣6️⃣ Games Official Site  
+ 2️⃣7️⃣ TV Show  
+ 2️⃣8️⃣ Digital Agency  
+ 2️⃣9️⃣ Online Resumee  
+ 3️⃣0️⃣ 404 Page  
